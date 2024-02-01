@@ -9,4 +9,4 @@ trailing whitespaces here ->
 			with tabs
 	}
 
-and no new line at the end
+and no new line at the end. EDIT: This is my edit in GH after created EditorConfig
