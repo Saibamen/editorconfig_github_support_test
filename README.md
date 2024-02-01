@@ -1,0 +1,1 @@
+# editorconfig_github_support_test
